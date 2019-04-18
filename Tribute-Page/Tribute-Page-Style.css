@@ -1,0 +1,149 @@
+.title-container {
+    color: #FFF;
+    opacity: 0.45;
+    text-align: center;
+    height: 80px;
+    width: 425px;
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 400px;
+  }
+  
+  .container {
+    grid-row: 100 50% none;
+    background-color: #FFF;
+    height: 200px;
+    width: 100%;
+  }
+  
+  .container2 {
+    grid-row: 100 50% none;
+    background-color: #FFF;
+    height: 680px;
+    width: 100%;
+  }
+  
+  #main {
+    
+  }
+  
+  #bg-img1 {
+    margin:20px;
+    min-height:100%;
+    height: 800px;
+    background: url("http://bestanimations.com/Site/funny-internet-animated-gif-25.gif");
+    color: #FFF;
+    top: 10px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    -webkit-box-shadow: -2px 6px 52px -2px rgba(0,0,0,0.75);
+  -moz-box-shadow: -2px 6px 52px -2px rgba(0,0,0,0.75);
+  box-shadow: -2px 6px 52px -2px rgba(0,0,0,0.75);
+  }
+  
+  #bg-img2 {  
+    min-height: 70%;
+    height: 600px;
+    display: block;
+    background-image: url("http://lifeboat.com/blog.images/why-the-internet-is-the-greatest-invention-in-a-very-long-time.jpg");
+    min-height:70%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+  }
+  
+  #bg-img3 {  
+    min-height: 70%;
+    height: 600px;
+    display: block;
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/67/79/33/6779331fc92f4002f4011a560f16f611.gif");
+    min-height:70%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+  }
+  
+  #title {
+    position: relative;
+    text-align: center;
+    width: 425px;
+    font: "Lato";
+    letter-spacing: 10px;
+    color: #FFF;
+    top: 20%;
+    left: 1%;
+    
+  }
+  
+  #img-div {
+    height: 325px;
+    width: 400px;
+    background: #000;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+     -webkit-box-shadow: -2px 6px 52px -2px rgba(0,0,0,0.75);
+  -moz-box-shadow: -2px 6px 52px -2px rgba(0,0,0,0.75);
+  box-shadow: -2px 6px 52px -2px rgba(0,0,0,0.75);
+  }
+  
+  #image {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: auto;
+      margin-bottom: auto;
+      max-width: 400px;
+      height: auto;
+   
+  }
+  
+  
+  #img-caption {
+    color: #FFF;
+    font: monospace;
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  #tribute-info {
+    text-align: center;
+  }
+ /* 
+  #tribute-link {
+    a:hover {
+      color: #ff0000;
+    } 
+    text-align: center;
+  }
+  */
+  
+  section {
+    padding: 50px;
+  }
+  
+  h3 {
+    letter-spacing:5px;
+    text-transform: uppercase; 
+    text-align: center;
+    color:#111;
+  }
+  
+  p {
+    text-indent: 20px;
+  }
+  
+  footer{
+    color:#000;
+    text-align:center;
+    font-size:12px;
+    margin-top: 100px;
+  }
+  
+  iframe {
+    margin-left: 225px;
+  }
